@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitrawani-lgtm/demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitrawani-lgtm/demo/issues"
+  },
+  "homepage": "https://github.com/amitrawani-lgtm/demo#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.5.2"
+  }
+}
